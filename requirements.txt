@@ -1,2 +1,2 @@
 requests~=2.27.1
-pymongo~=4.0.1
+pymongo[srv]~=4.0.1
